@@ -1,0 +1,3 @@
+# Employee Exit Surveys
+
+For this project, we investigate the exit surveys of former employees of the Department of Education, Training and Employment (DETE) and of the Technical and Further Education (TAFE) institute in Queensland, Australia. The documentation for the TAFE data set can no longer be found, but the documentation for the DETE data set can be found [here](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey).

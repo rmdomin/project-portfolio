@@ -1,0 +1,3 @@
+# Fandango Movie Ratings
+
+In this project, we investigate how Fandango movie ratings have changed after an analysis discovered that their ratings were essentially on a 3 to 5 stars scale. Documentation for the pre-changes data set can be found [here](https://github.com/fivethirtyeight/data/tree/master/fandango), and the documentation for the post-changes data set can be found [here](https://github.com/mircealex/Movie_ratings_2016_17).
